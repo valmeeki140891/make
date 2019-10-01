@@ -1,4 +1,3 @@
-#!/bin/bash
 if [ $# -ne 2 ] ; then
 echo -e  " please provide correct number of arguments"
 else
